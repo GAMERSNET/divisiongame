@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.116,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,=C:\Users\den2\Desktop\GAME soft\manager soft\clubmap.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.565,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,C:\Users\den2\Desktop\GAME soft\manager soft\UserUnit.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\den2\Desktop\GAME soft\manager soft\bUpdate.fmx=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,C:\Users\den2\Desktop\GAME soft\manager soft\shoftClose.fmx=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,C:\Users\den2\Desktop\GAME soft\manager soft\CasboxOperation.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\Users\den2\Desktop\GAME soft\manager soft\UnitFinance.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,C:\Users\den2\Desktop\GAME soft\manager soft\UnitGames.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,C:\Users\den2\Desktop\GAME soft\manager soft\CasboxOperation.fmx=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\den2\Desktop\GAME soft\manager soft\msoft.pas=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.863,C:\Users\den2\Desktop\GAME soft\manager soft\UnitGameCreate.fmx=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\den2\Desktop\GAME soft\manager soft\msoft.fmx=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\den2\Desktop\GAME soft\manager soft\datam.dfm=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\den2\Desktop\GAME soft\manager soft\datam.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\den2\Desktop\GAME soft\manager soft\dgmanager.dproj=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\den2\Desktop\GAME soft\manager soft\bUpdate.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.724,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.863,C:\Users\den2\Desktop\GAME soft\manager soft\UnitGameCreate.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,C:\Users\den2\Desktop\GAME soft\manager soft\shoftClose.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.fmx=C:\Users\den2\Desktop\GAME soft\manager soft\bookinginfo.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.fmx=C:\Users\den2\Desktop\GAME soft\manager soft\Tariff.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\den2\Desktop\GAME soft\manager soft\AnimProgress.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas=C:\Users\den2\Desktop\GAME soft\manager soft\Tariff.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas=C:\Users\den2\Desktop\GAME soft\manager soft\bookinginfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,=C:\Users\den2\Desktop\GAME soft\manager soft\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

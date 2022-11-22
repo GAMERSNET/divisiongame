@@ -1,0 +1,227 @@
+object Form_bUpdate: TForm_bUpdate
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 382
+  ClientWidth = 705
+  Position = MainFormCenter
+  Transparency = True
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object Rectangle_cashbox: TRectangle
+    Align = Center
+    Fill.Color = xFFF2F3F3
+    Size.Width = 700.000000000000000000
+    Size.Height = 361.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = xFFE7E8E8
+    XRadius = 4.000000000000000000
+    YRadius = 4.000000000000000000
+    object ShadowEffect1: TShadowEffect
+      Distance = 1.000000000000000000
+      Direction = 45.000000000000000000
+      Softness = 0.300000011920929000
+      Opacity = 0.600000023841857900
+      ShadowColor = claBlack
+    end
+    object Layout1: TLayout
+      Align = MostRight
+      Position.X = 488.000000000000000000
+      Size.Width = 212.000000000000000000
+      Size.Height = 361.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object GridLayout_button: TGridLayout
+        Align = Center
+        ItemHeight = 60.000000000000000000
+        ItemWidth = 60.000000000000000000
+        Orientation = Horizontal
+        Size.Width = 181.000000000000000000
+        Size.Height = 245.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+      end
+    end
+    object Layout14: TLayout
+      Align = Horizontal
+      Position.Y = 35.000000000000000000
+      Size.Width = 488.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object Rectangle_paytype: TRectangle
+        Align = Vertical
+        Position.X = 55.000000000000000000
+        Size.Width = 378.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        XRadius = 4.000000000000000000
+        YRadius = 4.000000000000000000
+      end
+    end
+    object Layout15: TLayout
+      Align = Horizontal
+      Position.Y = 95.000000000000000000
+      Size.Width = 488.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+      object Rectangle15: TRectangle
+        Align = Vertical
+        Fill.Kind = None
+        Position.X = 55.000000000000000000
+        Size.Width = 194.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFE0E0E0
+        XRadius = 4.000000000000000000
+        YRadius = 4.000000000000000000
+        object Edit_amount: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Vertical
+          StyleLookup = 'transparentedit'
+          TabOrder = 0
+          MaxLength = 7
+          FilterChar = '0123456789.'
+          TextSettings.Font.Family = 'Russia'
+          TextSettings.Font.Size = 30.000000000000000000
+          Position.X = 8.000000000000000000
+          Size.Width = 178.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = '0'
+          StyledSettings = [Style, FontColor]
+        end
+      end
+      object Layout_UserSearch: TLayout
+        Align = Vertical
+        Position.X = 257.000000000000000000
+        Size.Width = 74.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 19
+        object AniIndicator_userSearch: TAniIndicator
+          Align = Center
+          Enabled = True
+          Size.Width = 40.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          Visible = False
+        end
+      end
+    end
+    object Layout16: TLayout
+      Align = Horizontal
+      Position.Y = 287.000000000000000000
+      Size.Width = 488.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Rectangle16: TRectangle
+        Align = Vertical
+        Fill.Color = xFFD25A5E
+        Position.X = 55.000000000000000000
+        Size.Width = 194.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        XRadius = 4.000000000000000000
+        YRadius = 4.000000000000000000
+        object Text17: TText
+          Align = Client
+          Cursor = crHandPoint
+          Size.Width = 194.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+          Text = #1042#1099#1087#1086#1083#1085#1080#1090#1100
+          TextSettings.Font.Family = 'Russia'
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.FontColor = xFFE0E0E0
+          OnClick = Text17Click
+        end
+      end
+      object Rectangle17: TRectangle
+        Align = Vertical
+        Fill.Color = xFF185590
+        Position.X = 346.000000000000000000
+        Size.Width = 87.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        XRadius = 4.000000000000000000
+        YRadius = 4.000000000000000000
+        object Text18: TText
+          Align = Client
+          Cursor = crHandPoint
+          Size.Width = 87.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+          Text = #1054#1090#1084#1077#1085#1072
+          TextSettings.Font.Family = 'Russia'
+          TextSettings.Font.Size = 16.000000000000000000
+          TextSettings.FontColor = xFFE0E0E0
+          OnClick = Text18Click
+        end
+      end
+    end
+    object Layout2: TLayout
+      Align = Horizontal
+      Position.Y = 229.000000000000000000
+      Size.Width = 488.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+      object Text_errorText: TText
+        Align = Vertical
+        Cursor = crHandPoint
+        Position.X = 55.000000000000000000
+        Size.Width = 378.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Russia'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.FontColor = xFFD25A5E
+        TextSettings.HorzAlign = Leading
+      end
+    end
+    object Layout3: TLayout
+      Align = Horizontal
+      Position.Y = 153.000000000000000000
+      Size.Width = 488.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 4
+      object Rectangle1: TRectangle
+        Align = Vertical
+        Fill.Kind = None
+        Position.X = 55.000000000000000000
+        Size.Width = 378.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFE0E0E0
+        XRadius = 4.000000000000000000
+        YRadius = 4.000000000000000000
+        object Edit_descr: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Vertical
+          StyleLookup = 'transparentedit'
+          TabOrder = 0
+          MaxLength = 7
+          TextSettings.Font.Family = 'Russia'
+          TextSettings.Font.Size = 20.000000000000000000
+          Position.X = 8.000000000000000000
+          Size.Width = 362.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = #1050#1086#1084#1084#1077#1085#1090#1072#1088#1080#1081
+          StyledSettings = [Style, FontColor]
+        end
+      end
+    end
+  end
+end
